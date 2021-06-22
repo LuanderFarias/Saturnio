@@ -2,6 +2,8 @@
 
 Um Bot Para Discord Com As Funçoes Mais Atualizadas e Legais Possiveis :3
 
+Ou Pelo Menos Essa é a Ideia...
+
 ## 💻 Adicione-Me:
 
 Adcione-Me: [Saturnio](https://pip.pypa.io/en/stable/)
