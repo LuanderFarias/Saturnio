@@ -6,7 +6,7 @@ Ou Pelo Menos Essa é a Ideia...
 
 ## 💻 Adicione-Me:
 
-Adcione-Me: [Saturnio](https://pip.pypa.io/en/stable/)
+Adcione-Me: [Saturnio](https://discord.com/api/oauth2/authorize?client_id=724332538629324822&permissions=4294967287&redirect_uri=https%3A%2F%2Fdiscord.events.stdlib.com%2Fdiscord%2Fauth%2F&scope=bot)
 
 ## 🔧 Funçoes
 
