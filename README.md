@@ -2,27 +2,34 @@
 
 # Saturnio
 
-Um Bot Para Discord Com As Funçoes Mais Atualizadas e Legais Possiveis :3
+A Discord Bot With The Most Up-to-date and Cool Functions Possible :3
 
-Ou Pelo Menos Essa é a Ideia...
+Or At Least That's the Idea...
 
-## 💻 Adicione-Me:
+## 💻 Add-Me:
 
-Adcione-Me: [Saturnio](https://discord.com/api/oauth2/authorize?client_id=724332538629324822&permissions=4294967287&redirect_uri=https%3A%2F%2Fdiscord.events.stdlib.com%2Fdiscord%2Fauth%2F&scope=bot)
+[![add-me](https://img.shields.io/badge/ADD_ME-FF6550?style=for-the-badge&logo=AddThis&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=724332538629324822&permissions=4294967287&redirect_uri=https%3A%2F%2Fdiscord.events.stdlib.com%2Fdiscord%2Fauth%2F&scope=bot)
 
-## 🔧 Funçoes
+## 🔧 Functions
+To Know My Commands See The:
 
-Para Saber Meus Comandos Digite:
+[![commands.md](https://img.shields.io/badge/commands.md-4285F4?style=for-the-badge&logo=Files&logoColor=white)](commands.md)
 
-```python
-s.help
-```
-Em Um Servidor Onde Eu Esteja...
+## 🤝 contribution
+Project Open for Modification and Help :3
 
-## 🤝 Contribuição
-Projeto Aberto Para Modificaçoes e Ajuda :3
-
-Lembre-Se De Seguir Os Requisitos Da Licensa...
+Remember To Follow License Requirements...
 
 ## 🔖 License
 [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+## 💰 Donate
+[![Ko-fi Badge](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/luanderfarias)
+[![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&link=https://patreon.com/LuanderFarias)](https://patreon.com/LuanderFarias)
+
+### Support Or Contact
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luanderfarias/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LuanderFarias)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/ZP7fGys)](https://discord.gg/ZP7fGys)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luander-de-faria-474269205/)
