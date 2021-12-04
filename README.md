@@ -1,5 +1,3 @@
-![Saturnio](./image.png)
-
 # Saturnio
 
 A Discord Bot With The Most Up-to-date and Cool Functions Possible :3
